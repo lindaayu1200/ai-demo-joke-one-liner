@@ -2,9 +2,8 @@
 from pathlib import Path
 
 JOKE = (
-    "During the demo the AI agent's code worked perfectly. "
-    "So did the code it wrote for the bug report, the rollback plan, "
-    "and the apology email it had already sent."
+    "The demo ran perfectly until the client asked what happens when it breaks. "
+    "My agent raised a ticket, assigned it to me, set priority critical, and cc'd my boss."
 )
 
 output = Path("/output/entry.txt")
